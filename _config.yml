@@ -6,7 +6,7 @@ name: Stuart Woodward  # Name of your website
 tagline: Links  # Set your preferred page title
 description: He's just this guy you know  # Also used as a meta description
 favicon:
-  path: https://i.ibb.co/SBRmBmt/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+  path: https://stuartwoodward.com/favicon.ico # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
 logo: https://picsum.photos/200.webp # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://www.stuartwoodward.com # URL of your website
